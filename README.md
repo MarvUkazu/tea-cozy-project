@@ -1,0 +1,1 @@
+This is a Codecademy project where i created a fictional tea shop website. 
